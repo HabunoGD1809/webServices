@@ -7,7 +7,7 @@ Agenda de Contactos es una aplicación web que te permite gestionar tus contacto
 - **Node.js**: Un entorno de ejecución de JavaScript en el servidor.
 - **Express.js**: Un marco de trabajo web rápido y minimalista para Node.js.
 - **node-fetch**: Un módulo para realizar solicitudes HTTP en Node.js.
-- **HTML5**, **CSS3** y **JavaScript (ES6+)**: Lenguajes web estándar para construir la interfaz de usuario y la lógica del lado del cliente.
+- **HTML5**, **CSS3** y **JavaScript**: Lenguajes web estándar para construir la interfaz de usuario y la lógica del lado del cliente.
 
 ## Estructura del Proyecto
 
